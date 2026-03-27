@@ -36,10 +36,10 @@ This project analyzes customer behavior in an e-commerce platform using SQL, Pyt
 
 **Project Workflow
 
-1. Data Collection:
+1.Data Collection:
 >Imported e-commerce datasets into MySQL database.
 
-2. Data Cleaning:
+2.Data Cleaning:
 >Checked for missing values and ensured data consistency.
 
 3.SQL Analysis:
