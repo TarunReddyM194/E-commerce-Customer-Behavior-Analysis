@@ -20,6 +20,31 @@ This project analyzes customer behavior in an e-commerce platform using SQL, Pyt
 * Top Product Categories
 * Repeat Customers Analysis
 
+Project Structure
+
+  Ecommerce-Customer-Behavior-Analysis/
+
+│
+├── README.md
+├── INSIGHTS.md
+│
+├── SQL/
+│   ├── customer_analysis.sql
+│   ├── sales_analysis.sql
+│   └── revenue_analysis.sql
+│
+├── Python/
+│   └── analysis.py
+│
+├── PowerBI/
+│   └── dashboard.pbix
+│
+├── screenshots/
+│   ├── dashboard_overview.png
+│   ├── top_categories.png
+│   └── monthly_trend.png
+│
+
 ## Dashboard Preview
 
 ### Overall Dashboard
