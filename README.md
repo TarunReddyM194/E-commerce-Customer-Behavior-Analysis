@@ -87,3 +87,20 @@ Project Structure
 >Analyzed customer purchase patterns.
 >Evaluated monthly sales performance.**
 
+### How to Run
+
+1. Clone the repository
+   git clone https://github.com/your-username/ecommerce-analysis.git
+
+2. Navigate to the project folder
+   cd ecommerce-analysis
+
+3. Install required libraries
+   pip install pandas numpy
+
+4. Run Python scripts / notebooks
+   jupyter notebook
+
+5. Execute SQL queries in your SQL environment
+
+6. Open Power BI dashboard file (.pbix)
