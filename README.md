@@ -104,3 +104,8 @@ Project Structure
 5. Execute SQL queries in your SQL environment
 
 6. Open Power BI dashboard file (.pbix)
+
+## Future Improvements
+- Add more advanced customer segmentation
+- Improve dashboard interactivity
+- Perform predictive analysis
